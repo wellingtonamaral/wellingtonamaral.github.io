@@ -1444,6 +1444,8 @@ body, p, h1, h2, h3, h4, h5, h6 {
   margin-right: 40px;
 }
 
+#map { position: absolute; top: 0; bottom: 0; width: 100%; }
+
 .footer_copyright .pull-right .navbar-nav li a {
   padding: 0px;
   background: transparent;
