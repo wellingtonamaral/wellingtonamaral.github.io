@@ -1,4 +1,4 @@
-# [Portfólio Wellington Amaral - Desenvolvedor Web](http://wellington.github.io/)
+# [Portfólio Wellington Amaral - Desenvolvedor Web](http://wellingtonamaral.github.io/)
 
 Freelancer, Técnico em Informática, formado em sistemas de informação. Entusiasta da tecnologia, suporte, inovação e fanático por desafios. Quer saber como impulsionar o seu negócio e obter um número maior de clientes? Entre já em contato para fazermos seu orçamento!
 
