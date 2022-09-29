@@ -1,6 +1,8 @@
 # [Portfólio Wellington Amaral - Desenvolvedor Web](http://wellingtonamaral.github.io/)
 
-Freelancer, Técnico em Informática, formado em sistemas de informação. Entusiasta da tecnologia, suporte, inovação e fanático por desafios. Quer saber como impulsionar o seu negócio e obter um número maior de clientes? Entre já em contato para fazermos seu orçamento!
+Profissional em contato com tecnologia desde tenra idade, sempre buscando por conhecimentos relacionados, principalmente, à infraestrutura computacional - ênfase em
+suporte de computadores e hardware. Possuo conhecimentos em linguagem de programação Java, PHP e JS - em busca sempre do aprendizado destas linguagens;
+
 
 ## Preview
 
@@ -8,4 +10,4 @@ Freelancer, Técnico em Informática, formado em sistemas de informação. Entus
 
 ## Direitos autorais e licença
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2013-2022 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
