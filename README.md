@@ -10,4 +10,4 @@ suporte de computadores e hardware. Possuo conhecimentos em linguagem de program
 
 ## Direitos autorais e licença
 
-Copyright 2013-2022 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
+Copyright 2013-2023 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-agency/blob/gh-pages/LICENSE) license.
